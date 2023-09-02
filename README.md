@@ -1,4 +1,4 @@
-# IOS Learning Projects
+# Learning Projects for IOS
 
 ### WeSplit
 
